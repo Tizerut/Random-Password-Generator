@@ -1,6 +1,6 @@
 # Expense Tracker (Трекер расходов)
 
-**Автор:** Vbyfrjdf Bhbyf
+**Автор:** Минакова Ирина
 
 **Вариант:** Expense Tracker — учёт личных расходов с GUI
 
